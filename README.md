@@ -50,21 +50,3 @@ We welcome contributions to improve Omnifood. If you would like to contribute, p
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## 📬 Contact
-
-For any questions or feedback, please feel free to reach out:
-
-- **GitHub**: [eanni14](https://github.com/eanni14)
-- **Email**: eanni14@example.com
-
-## 🌟 Explore More
-
-We invite you to explore more features and improvements in the [Releases section](https://github.com/eanni14/Omnifood/releases). 
-
-![Omnifood Screenshot](https://via.placeholder.com/800x400.png?text=Omnifood+Screenshot)
-
-Thank you for visiting the Omnifood repository! We hope you enjoy building and using this modern restaurant website.
