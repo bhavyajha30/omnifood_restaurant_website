@@ -18,8 +18,6 @@ Welcome to the **Omnifood** repository! This project features a responsive and s
 2. [Installation Instructions](#installation-instructions)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
 
 ## 🛠️ Technologies Used
 
