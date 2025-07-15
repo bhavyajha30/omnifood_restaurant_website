@@ -5,9 +5,6 @@
 
 Welcome to the **Omnifood** repository! This project features a responsive and static restaurant website designed with a modern user interface. Built using HTML, CSS, Bootstrap, and JavaScript, Omnifood offers a seamless experience for users looking to explore restaurant options online.
 
-## 📥 Get Started
-
-To get started with Omnifood, you can download the latest version from our [Releases section](https://github.com/eanni14/Omnifood/releases). Make sure to download the appropriate files and execute them on your local machine.
 
 ## 🚀 Features
 
